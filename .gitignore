@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+county_12086.csv
+data/raw/
+~$*.xlsx
